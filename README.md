@@ -74,8 +74,8 @@ output.exe
 **University:** University of Science, VNU-HCM
 
 **Team Members:**
-* Phan Minh Anh (24120498)
-* Tran Dong Thuan (24120146)
-* Ha Van Thien Bao (24120022)
-* Phan The Minh Tri (24120506)
-* Phan Ngoc Thuc (24120228)
+* Phan Minh Anh - 24120498
+* Tran Dong Thuan - 24120146
+* Ha Van Thien Bao - 24120022
+* Phan The Minh Tri - 24120506
+* Phan Ngoc Thuc - 24120228
